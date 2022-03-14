@@ -19,7 +19,4 @@ Para rodar, basta usar o comando:
 yarn dev:server
 ```
 
-Scod Brasil - Todos os direitos reservados
-
-
 [⬆ Voltar ao topo](#ms-uploader)
